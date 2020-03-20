@@ -1,6 +1,12 @@
 # 目录
 
+redis使用场景
 
+redis分布式锁
+
+redis lua
+
+redis分布式id
 
 # 资料
 
